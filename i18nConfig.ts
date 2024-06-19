@@ -4,7 +4,7 @@ const i18nConfig: Config = {
   locales: ['en', 'de', 'ja'],
   defaultLocale: 'en',
   prefixDefault: true,
-  serverSetCookie:'never'
+  serverSetCookie: 'never'
 };
 
 export default i18nConfig;
